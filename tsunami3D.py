@@ -5,7 +5,6 @@ This is the code which is used to calculate the free ocean surface displacement
 due to a simplistic rectangular seafloor deformation for tsunami source in 3D.
 
 Date: Jan, 2021
-Authors: Simona Prokopovic, Douglas Hull
 """
 import numpy as np
 import matplotlib.pyplot as plt
